@@ -8,3 +8,5 @@
 7. rm ../../bbdd/consultas.sql
 8. mv ../../prog/index.php index2.php
 9. echo "select * from clientes" >> ../../bbdd/consultas.sql
+10. cd ../../..
+10. rm -r practica
