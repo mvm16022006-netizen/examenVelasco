@@ -26,3 +26,10 @@ cd examenVelasco
 mkdir prog si bbdd
 echo '1. mkdir prog si bbdd' >> comandos.txt
 ls
+git add -A
+git commit -m "Paso 1"
+touch prog/index.phpç
+touch prog/index.php
+rm prog/index.phpç
+ls prog
+echo '2. touch prog/index.php' >> comandos.txt
