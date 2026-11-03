@@ -1,1 +1,0 @@
-9. echo "select * from clients" >> ../../bbdd/consultas.sql
