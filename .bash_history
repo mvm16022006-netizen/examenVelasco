@@ -33,3 +33,10 @@ touch prog/index.php
 rm prog/index.phpç
 ls prog
 echo '2. touch prog/index.php' >> comandos.txt
+git add -A
+git commit -m "Paso 2"
+cd si
+cp ../prog/index.php ../bbdd/consultas.sql
+echo '3. cd si' >> ../comandos.txt
+echo '3. cp ../prog/index.php ../bbdd/consultas.sql' >> ../comandos.txt
+cd ..
