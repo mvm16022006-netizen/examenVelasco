@@ -5,3 +5,4 @@
 4. mkdir si/git
 5. cd si/git
 6. touch ../../login
+7. rm ../../bbdd/consultas.sql
