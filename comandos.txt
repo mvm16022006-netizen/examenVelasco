@@ -3,3 +3,4 @@
 3. cd si
 3. cp ../prog/index.php ../bbdd/consultas.sql
 4. mkdir si/git
+5. cd si/git
