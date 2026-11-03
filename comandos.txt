@@ -6,3 +6,4 @@
 5. cd si/git
 6. touch ../../login
 7. rm ../../bbdd/consultas.sql
+8. mv ../../prog/index.php index2.php
